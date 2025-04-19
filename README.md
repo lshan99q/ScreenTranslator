@@ -18,17 +18,10 @@
    ```
 2. 安装完成后重启终端使环境变量生效
 
-## 配置说明
-编辑`config.ini`文件:
-```ini
-[Translation]
-api_key = 您的DeepSeek API密钥
-source_lang = 源语言代码(默认eng)
-target_lang = 目标语言代码(默认chi_sim)
-
-[Display]
-refresh_rate = 刷新频率(秒)
-```
+## API密钥配置
+1. 首次运行程序时会弹出对话框要求输入DeepSeek API密钥
+2. 密钥将安全保存在config.ini文件中
+3. 如需更改API密钥，可直接编辑config.ini文件或删除该文件后重新运行程序
 
 ## 使用说明
 1. 运行主程序:
@@ -44,6 +37,7 @@ refresh_rate = 刷新频率(秒)
 - 确保网络连接正常以使用API
 - 首次使用需安装Tesseract OCR
 - 翻译质量取决于屏幕文字清晰度
+- 请勿分享config.ini文件中的API密钥
 
 ## 依赖项
 - pytesseract

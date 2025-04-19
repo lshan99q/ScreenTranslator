@@ -1,0 +1,25 @@
+# Screen Translator Log File
+# Created: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+# Log format: [TIMESTAMP] [LEVEL] MESSAGE
+
+[INIT] Logging system initialized
+2025-04-19 10:15:11 [INFO] Screen Translator initialized
+2025-04-19 10:16:06 [ERROR] œ‘ æ∑≠“Î≥ˆ¥Ì: 'ImageDraw' object has no attribute 'textsize'
+2025-04-19 10:24:04 [INFO] Screen Translator initialized
+2025-04-19 10:31:48 [INFO] Screen Translator initialized
+2025-04-19 11:44:45 [INFO] Screen Translator initialized
+2025-04-19 11:45:09 [INFO] Screen Translator initialized
+2025-04-19 12:05:17 [INFO] Screen Translator initialized
+2025-04-19 12:05:44 [INFO] Screen Translator initialized
+2025-04-19 12:05:53 [INFO] Screen Translator initialized
+2025-04-19 12:07:44 [INFO] Screen Translator initialized
+2025-04-19 12:07:47 [ERROR] ≈‰÷√∂¡»° ß∞‹: 'gbk' codec can't decode byte 0xaf in position 25: illegal multibyte sequence
+2025-04-19 12:07:59 [INFO] Screen Translator initialized
+2025-04-19 12:08:01 [ERROR] ≈‰÷√∂¡»° ß∞‹: 'gbk' codec can't decode byte 0xaf in position 25: illegal multibyte sequence
+2025-04-19 12:08:09 [INFO] Screen Translator initialized
+2025-04-19 12:08:11 [ERROR] ≈‰÷√∂¡»° ß∞‹: 'gbk' codec can't decode byte 0xaf in position 25: illegal multibyte sequence
+2025-04-19 12:08:24 [INFO] Screen Translator initialized
+2025-04-19 12:09:34 [ERROR] ≈‰÷√∂¡»° ß∞‹: 'gbk' codec can't decode byte 0xaf in position 25: illegal multibyte sequence
+2025-04-19 12:27:01 [INFO] Screen Translator initialized
+2025-04-19 12:28:45 [INFO] Screen Translator initialized
+2025-04-19 12:30:21 [INFO] Screen Translator initialized
